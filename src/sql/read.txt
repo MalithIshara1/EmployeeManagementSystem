@@ -1,0 +1,2 @@
+Database Name = 'mobile'
+first create database and after import sql file
